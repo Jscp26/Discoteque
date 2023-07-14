@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discoteque.API", "Discoteque.API\Discoteque.API.csproj", "{855D8704-22E7-43DA-AC46-A1C4EB84EEED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discoteque.Business", "Discoteque.Business\Discoteque.Business.csproj", "{8BEE9B1D-C8B3-4811-825C-93FA092C5207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discoteque.Data", "Discoteque.Data\Discoteque.Data.csproj", "{7E8B3B46-3EC3-4832-BB4B-C83BF9EB451D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{855D8704-22E7-43DA-AC46-A1C4EB84EEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855D8704-22E7-43DA-AC46-A1C4EB84EEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855D8704-22E7-43DA-AC46-A1C4EB84EEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855D8704-22E7-43DA-AC46-A1C4EB84EEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BEE9B1D-C8B3-4811-825C-93FA092C5207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BEE9B1D-C8B3-4811-825C-93FA092C5207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BEE9B1D-C8B3-4811-825C-93FA092C5207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BEE9B1D-C8B3-4811-825C-93FA092C5207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8B3B46-3EC3-4832-BB4B-C83BF9EB451D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8B3B46-3EC3-4832-BB4B-C83BF9EB451D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8B3B46-3EC3-4832-BB4B-C83BF9EB451D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8B3B46-3EC3-4832-BB4B-C83BF9EB451D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
